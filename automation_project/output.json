@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "time": "2026-10-11 07:03:24",
+        "data": [
+            {
+                "name": "Router 1",
+                "address": "192.168.10.1",
+                "model": "Catalyst 8000",
+                "location": "Makati, Manila",
+                "status": true
+            },
+            {
+                "name": "Router 2",
+                "address": "192.168.20.1",
+                "model": "Catalyst 8000",
+                "location": "Quezon City, Manila",
+                "status": true
+            },
+            {
+                "name": "Router 3",
+                "address": "192.168.30.1",
+                "model": "Catalyst 8000",
+                "location": "Makati, Manila",
+                "status": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "time": "2026-10-11 07:04:01",
+        "data": [
+            {
+                "name": "Router 1",
+                "address": "192.168.10.1",
+                "model": "Catalyst 8000",
+                "location": "Makati, Manila",
+                "status": true
+            },
+            {
+                "name": "Router 2",
+                "address": "192.168.20.1",
+                "model": "Catalyst 8000",
+                "location": "Quezon City, Manila",
+                "status": true
+            },
+            {
+                "name": "Router 3",
+                "address": "192.168.30.1",
+                "model": "Catalyst 8000",
+                "location": "Makati, Manila",
+                "status": false
+            }
+        ]
+    }
+]
